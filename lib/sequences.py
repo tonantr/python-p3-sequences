@@ -2,7 +2,6 @@
 
 def print_fibonacci(length):
     fibonacci = []
-    fibonacci = []
     if length > 0:
         '''prints 0 when length = 1'''
         fibonacci.append(0)
